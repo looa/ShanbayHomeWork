@@ -1,9 +1,11 @@
-package homework.shanbay.levelreading;
+package homework.shanbay.levelreading.ui.main;
 
-import android.support.v7.app.AppCompatActivity;
+import android.app.Activity;
 import android.os.Bundle;
 
-public class MainActivity extends AppCompatActivity {
+import homework.shanbay.levelreading.R;
+
+public class MainActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
